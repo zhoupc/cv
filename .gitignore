@@ -1,1 +1,7 @@
 .cache
+*.aux
+*.bbl 
+*.blg 
+*.out
+*.synctex.gz 
+*.log
